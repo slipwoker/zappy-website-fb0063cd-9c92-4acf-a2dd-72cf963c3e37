@@ -1,0 +1,57 @@
+# וידאו מאסטר — Generative Engine Optimization Map
+
+> A הפקות וידאו ושיווק דיגיטלי business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-fb0063cd.zappy5.app
+גלו הפקת סרטוני תדמית מקצועית שמעניקה תוצאות אמיתיות. צרו קשר עוד היום לייעוץ חינם!
+
+### שירותים
+https://-fb0063cd.zappy5.app/services
+שירותי הפקת סרטוני תדמית מקצועיים לעסקים - פרסומות, תוכן דיגיטלי, ושיווק וידאו. התאמה אישית לכל עסק.
+
+### אודות
+https://-fb0063cd.zappy5.app/about
+הכירו את וידאו מאסטר - חברת הפקת וידאו תדמית בישראל עם ניסיון מוכח בהפקת סרטוני תדמית ופרסומות יצירתיות.
+
+### צור קשר
+https://-fb0063cd.zappy5.app/contact
+צרו קשר עם וידאו מאסטר להפקת סרטוני תדמית מקצועית. קבלו ייעוץ חינם והצעת מחיר מותאמת אישית.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-fb0063cd.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-fb0063cd.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-fb0063cd.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About וידאו מאסטר
+וידאו מאסטר is a business in the הפקות וידאו ושיווק דיגיטלי industry.
+
+## Target Audience
+עסקים בינוניים וגדולים
+
+## Industry
+הפקות וידאו ושיווק דיגיטלי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-fb0063cd.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-fb0063cd.zappy5.app/robots.txt
